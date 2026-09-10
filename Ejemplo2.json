@@ -1,0 +1,8 @@
+{
+    "Nombre": "Omar",
+    "Edad": 22,
+    "promedio": 8.5,
+    "activo": true,
+    "becado": false,
+    "telefono": null
+}
